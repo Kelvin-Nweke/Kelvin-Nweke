@@ -1,6 +1,6 @@
 Hi, I'm Kelvin Chinedu Nweke  
 
-**Entry-Level Data Analyst | Chemist | Research Writer**
+**Data Analyst | Chemist | Research Writer**
 
 I’m a passionate **Data Analyst** with a scientific background in **Chemistry and Research Writing**.  
 I specialize in **data cleaning, visualization, and modelling** using tools like **Power BI** and **Excel**, while continuously expanding my skills in **SQL** and **Python** for data querying and automation.  
@@ -17,8 +17,8 @@ Tools & Skills
 | Category | Tools & Skills |
 |-----------|----------------|
 | **Data Analysis & Visualization** | Power BI, Excel |
-| **Database & Querying** | SQL (learning) |
-| **Programming** | Python (learning) |
+| **Database & Querying** | SQL |
+| **Programming** | Python |
 | **Research & Reporting** | Academic Writing, Data Interpretation |
 | **Other Skills** | Data Cleaning, Data Modelling, Dashboard Design, Critical Thinking |
 
@@ -28,6 +28,4 @@ Connect With Me
 - **LinkedIn:** [www.linkedin.com/in/kelvin-nweke-48693a248]  
 - **Email:** kelvinnweke01@outlook.com  
 
-
-
-*“Bridging Chemistry and Data , one dataset, one insight at a time.”*  
+ 
